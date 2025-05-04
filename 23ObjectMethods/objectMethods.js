@@ -5,7 +5,7 @@
 
 // console.log( person );
 
-// let arr = [1,2,3,4]
+//  let arr = [1,2,3,4]
 
 // console.log( arr );
 
